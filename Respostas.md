@@ -1,4 +1,5 @@
 1.
+
 a) Subgráfico são nós contendo um gráfico integrado.
 
 b)  São grafos cujos nós podem ser divididos em dois conjuntos disjuntos U,V, de modo que cada link conecte um nó em U e em V. Ou seja, U e V são conjuntos independentes.
@@ -25,11 +26,13 @@ c)É conectado pois existe um caminho entre cada par de vertices
 
 d)N = 3 e R = 1
 
+8.
+
 8.3 + 3 + 3 + 5 = 14 => 14/2 = 7
 
+Respostas das questões 4,5,6 letras E) e F), 7, 9 e 10 estão contidas no colab:
 
-
-4/5/7/
+https://colab.research.google.com/drive/1bdLmbyCUgySUUGgqw7VEim_VqQHUJiRZ?usp=sharing
 
 
 
